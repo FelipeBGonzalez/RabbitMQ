@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDkmUvh5GB+y5J1/6ltmNsVi7eVd7tIXZM4OHtFB4V/BKkNSqQnDoVGqn+lqns/0qSKXAkRkmee1PwBEOHYqNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\RabbitMQ\\ConsumidorRabbitMQ\\ConsumidorRabbitMQ\\ConsumidorRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sony Vaio\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Sony Vaio\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sony Vaio\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
