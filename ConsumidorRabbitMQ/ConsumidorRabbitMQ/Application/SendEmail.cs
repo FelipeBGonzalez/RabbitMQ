@@ -11,8 +11,8 @@ namespace ConsumidorRabbitMQ.Application
     {
         public void Excexute(Mail param)
         {
-            string emailFom = "felipebgonzalez@hotmail.com";
-            string passwordFrom = "Felipe$33Felipe$33";
+            string emailFom = "a@hotmail.com";
+            string passwordFrom = "*******************";
 
 
             //*****************   HOTMAIL   ****************************
